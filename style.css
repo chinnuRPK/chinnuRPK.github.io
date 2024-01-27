@@ -39,7 +39,7 @@ nav{
     align-items: center;
     height: 100px;
 }
-nav span img{
+nav span svg{
     
     width: 140px;
     position: relative;
